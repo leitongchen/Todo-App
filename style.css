@@ -1,0 +1,9 @@
+@import './styles/font-faces.css';
+
+body {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-weight: 500;
+}
